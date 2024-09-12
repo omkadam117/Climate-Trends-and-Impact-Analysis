@@ -1,0 +1,6 @@
+climate_change_analysis/
+│
+├── data/
+│   └── temperature_data.csv
+├── analysis.py
+└── README.md
